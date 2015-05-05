@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/save.png</file>
+        <file>images/newTab32.png</file>
+    </qresource>
+    <qresource prefix="/GLSL">
+        <file>modelDirectionLightFragmentShader.frag</file>
+        <file>modelFragmentShader330.frag</file>
+        <file>modelPointLightFragmentShader.frag</file>
+        <file>modelSpotlightFragmentShader.frag</file>
+        <file>modelVertexShader330.vert</file>
+        <file>multipleLights.frag</file>
+        <file>specialFragmentShader.frag</file>
+        <file>specialVertexShader330.vert</file>
+        <file>multipleLights.vert</file>
+        <file>modelFragmentShader.frag</file>
+        <file>modelVertexShader.vert</file>
+        <file>specialFragmentShader330.frag</file>
+        <file>specialVertexShader.vert</file>
+        <file>multiplelights330.frag</file>
+        <file>multiplelights330.vert</file>
+    </qresource>
+</RCC>
